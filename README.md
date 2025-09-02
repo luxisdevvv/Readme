@@ -29,6 +29,6 @@
 
 ### 📫 Contact
 
-- 🌐 Website: https://luxisdevtry.netlify.app/
+- 🌐 Website: https://luxisdev.com/
 - 📧 Email: info@dizikai.xyz
-- 💬 Discord: `luxisdevvv`
+- 💬 Discord: `luxisdevvvvvvv`
