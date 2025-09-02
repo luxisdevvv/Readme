@@ -30,5 +30,5 @@
 ### 📫 Contact
 
 - 🌐 Website: https://luxisdev.com/
-- 📧 Email: info@dizikai.xyz
+- 📧 Email: info@luxisdev.com
 - 💬 Discord: `luxisdevvvvvvv`
